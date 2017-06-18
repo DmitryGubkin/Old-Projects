@@ -1,0 +1,39 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe.config
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\bin\Debug\Shaft Work.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.MainWinow.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\obj\Debug\Shaft Work.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\Shaft Work\Shaft Work\obj\Debug\Shaft Work.pdb
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe.config
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.exe
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.pdb
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\bin\Debug\Shaft Work.pdb
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.Properties.Resources.resources
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csproj.GenerateResource.Cache
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.LargePromp.resources
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.MainWindow.resources
+D:\AMC Bridge\Education project\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csprojResolveAssemblyReference.cache
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe.config
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\obj\Debug\Shaft Work.exe
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\obj\Debug\Shaft Work.pdb
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\bin\Debug\Shaft Work.pdb
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.MainWindow.resources
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.LargePromp.resources
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.Properties.Resources.resources
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csproj.GenerateResource.Cache
+D:\AMC Bridge\Reforge\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csprojResolveAssemblyReference.cache
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe.config
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.exe
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.pdb
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\bin\Debug\Shaft Work.exe
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\bin\Debug\Shaft Work.pdb
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csprojResolveAssemblyReference.cache
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.MainWindow.resources
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.LargePromp.resources
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft_Work.Properties.Resources.resources
+D:\AMC Bridge\Education Project\shaft\DmitryGubkin_Sumy\Src\Shaft Work\Shaft Work\obj\Debug\Shaft Work.csproj.GenerateResource.Cache
