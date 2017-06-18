@@ -1,0 +1,14 @@
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Дмитрий\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
