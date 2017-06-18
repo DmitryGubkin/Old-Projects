@@ -1,0 +1,6 @@
+c:\users\дмитрий\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+c:\users\дмитрий\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
